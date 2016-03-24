@@ -1,0 +1,13 @@
+{
+	"Type":"sap.ui.core.mvc.JSONView",
+	"controllerName":"helloworldproject4.HelloPage1",
+	"content": [{
+		"Type":"sap.m.Page",
+		"title":"Hello World Page1",
+		"content":[{
+	"Type":"sap.m.Button",
+     "text":"NextPage",
+   	  "press":"abc"		
+		}]
+	}]
+}
